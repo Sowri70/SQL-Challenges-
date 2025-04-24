@@ -6,7 +6,7 @@ This project showcases a comprehensive use of SQL to perform advanced data analy
 
 ✅ Aggregate Functions: SUM() AND  AVG()
 
-✅ GROUP BY & HAVING: To group data and filter aggregated results
+✅ GROUP BY : To group data and filter aggregated results
 
 ✅ ORDER BY: For result sorting by one or more columns
 
